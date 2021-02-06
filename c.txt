@@ -5,6 +5,8 @@ c模块
 添加了功能4
 stash测试 干活儿中 还没干完 去master分支查看 需要暂时保存一下
 aaa
-bbb
+BBBBCDBB修改bbb
+修复了一个bug BBB
 ccc
 ddd
+feature1升级
